@@ -38,7 +38,7 @@ export default Component_DatePicker;
 
 const Div_Body = styled.div`
     display: inline-flex;
-    width: 240px;
+    width: 300px;
     justify-content: space-between;
     cursor : pointer !important;
 `;
